@@ -29,3 +29,6 @@ You can directly [download the dns.zip (containing the dns.app)](https://github.
 
 
 Thanks @jaredks for providing rumps. It's very simple and helpful.
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-49628929-1/dns.app/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
