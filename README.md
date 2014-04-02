@@ -2,9 +2,13 @@
 
 This is a very small toolbar menu for changing your DNS in OSX 10.9.2
 
+# Screenshot
+
+![dns.app](https://github.com/damln/dns.app/raw/master/capture.png "dns.app")
+
 # Download
 
-You can directly [download the dns.zip (containing the dns.app)]()
+You can directly [download the dns.zip (containing the dns.app)](https://github.com/damln/dns.app/raw/master/dist/dns.zip)
 
 # Required
 
