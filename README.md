@@ -4,7 +4,7 @@ This is a very small toolbar menu for changing your DNS in OSX 10.9.2
 
 # Download
 
-You can directly [download the dns.zip (containing the dns.app]()
+You can directly [download the dns.zip (containing the dns.app)]()
 
 # Required
 
