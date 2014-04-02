@@ -88,7 +88,7 @@ class DNSStatusBarApp(rumps.App):
 
         list = []
         for item in splited:
-            if item != "":
+            if item != "" and not item.startswith("An asterisk"):
                 list.append(item)
 
         return list

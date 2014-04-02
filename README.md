@@ -17,6 +17,10 @@ You can directly [download the dns.zip (containing the dns.app)](https://github.
 - rumps (this fork: https://github.com/tito/rumps)
 
 
+# Launch app in dev mode
+
+    python dns.py
+
 # Package the app
 
     python setup.py py2app
