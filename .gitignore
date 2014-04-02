@@ -1,0 +1,61 @@
+build/
+dist/*.app
+
+# OTHERS -------------------------
+*.rdb
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+*.rbx*
+
+# BINARY / GENERATED --------------
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.swp
+*.sass-cache*
+*.diff
+*.err
+*.orig
+*.rej
+*.swo
+*.bak
+*.vi
+*.log
+*~
+
+# OS ---------------------
+._.*
+.DS_Store*
+.cache
+.settings
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+nbproject
+Thumbs.db
+
+# IDE -------------------
+.project
+.pydevproject
+
+# KOMODO
+*.komodoproject
+.komodotools
+
+# VERSIONS
+.hg
+.svn
+.CVS
+.idea
