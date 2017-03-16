@@ -31,7 +31,5 @@ You can directly [download the dns.zip (containing the dns.app)](https://github.
 Thanks @jaredks for providing rumps. It's very simple and helpful.
 
 
-A simple hack from [Geeksters](http://geeksters.co)
-
 [![Analytics](https://ga-beacon.appspot.com/UA-93841935-2/github-readme?pixel)](https://github.com/damln/dns.app)
 
